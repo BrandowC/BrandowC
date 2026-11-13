@@ -1,3 +1,8 @@
+<!-- CONFIG
+FULL_NAME: Brandow Stivent Claros Polania
+GITHUB_USER: BrandowC
+-->
+
 <h1 align="center">Hi, I'm Brandow Claros 👋</h1>
 <h3 align="center">Systems Engineering student (8th semester) · Full-stack & Mobile Developer</h3>
 
